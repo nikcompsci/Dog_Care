@@ -1,0 +1,9 @@
+﻿Day,Big_Exercise,Small_Exercise,Big_Grooming,Small_Grooming
+Mon,60,0,0,30
+Tues,60,0,0,30
+Wed,60,0,0,30
+Thu,60,0,0,30
+Fri,120,0,30,30
+Sat,120,15,30,60
+Sun,180,15,60,30
+Total_wk_hr,660,30,120,240
